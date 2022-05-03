@@ -5,3 +5,6 @@ cd $(dirname $0)
 
 # Display notification
 osascript main.scpt
+
+# Exit
+exit 0
