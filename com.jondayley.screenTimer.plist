@@ -5,7 +5,7 @@
 	<key>Label</key>
 	<string>com.jondayley.screenTimer</string>
 	<key>Program</key>
-	<string>/usr/bin/env</string>
+	<string>/Users/cadnza/Repos/screenTimer/main.sh</string>
 	<key>RunAtLoad</key>
 	<true/>
 	<key>StandardErrorPath</key>
