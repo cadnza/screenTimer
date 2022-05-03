@@ -12,5 +12,7 @@
 	<string>/tmp/com.jondayley.screenTimer.stderr</string>
 	<key>StandardOutPath</key>
 	<string>/tmp/com.jondayley.screenTimer.stdout</string>
+	<key>StartInterval</key>
+	<integer>1200</integer>
 </dict>
 </plist>
