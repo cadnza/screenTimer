@@ -8,5 +8,9 @@
 	<string>/usr/bin/env</string>
 	<key>RunAtLoad</key>
 	<true/>
+	<key>StandardErrorPath</key>
+	<string>/tmp/com.jondayley.screenTimer.stderr</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/com.jondayley.screenTimer.stdout</string>
 </dict>
 </plist>
