@@ -1,5 +1,7 @@
 # `screenTimer`
 
+![](https://img.shields.io/github/v/release/cadnza/screenTimer)
+
 Very (very) simple timer to remind you to look away from your Mac every 20 minutes. Saves me headaches.
 
 ## Installation
