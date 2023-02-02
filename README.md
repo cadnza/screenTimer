@@ -7,8 +7,8 @@ Very (very) simple timer to remind you to look away from your Mac every 20 minut
 ## Installation
 
 1. Clone the repo
-2. Change the `Program` path in `com.jondayley.screenTimer.plist` to it's real path on your machine
-3. Symlink `com.jondayley.screenTimer.plist` into `~/Library/LaunchAgents`
+2. Change the `Program` path in `com.cadnza.screenTimer.plist` to it's real path on your machine
+3. Symlink `com.cadnza.screenTimer.plist` into `~/Library/LaunchAgents`
 4. Start the job
     - Seriously—this project is so simple that I'm not even going to write up a tutorial on launch agents. [This one](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html) should do.
 

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.jondayley.screenTimer</string>
+	<string>com.cadnza.screenTimer</string>
 	<key>Program</key>
 	<string>/Users/cadnza/Repos/screenTimer/main.sh</string>
 	<key>RunAtLoad</key>
 	<true/>
 	<key>StandardErrorPath</key>
-	<string>/tmp/com.jondayley.screenTimer.stderr</string>
+	<string>/tmp/com.cadnza.screenTimer.stderr</string>
 	<key>StandardOutPath</key>
-	<string>/tmp/com.jondayley.screenTimer.stdout</string>
+	<string>/tmp/com.cadnza.screenTimer.stdout</string>
 	<key>StartInterval</key>
 	<integer>1220</integer>
 </dict>
