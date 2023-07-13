@@ -4,7 +4,7 @@
 cd $(dirname $0)
 
 # Display notification
-osascript main.scpt
+./notify.scpt
 
 # Exit
 exit 0
